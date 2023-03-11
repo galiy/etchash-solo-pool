@@ -9,7 +9,7 @@ import (
 
 	"gopkg.in/redis.v3"
 
-	"github.com/etclabscore/open-etc-pool/util"
+	"github.com/galiy/etchash-solo-pool/util"
 )
 
 type Config struct {

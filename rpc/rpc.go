@@ -14,7 +14,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
-	"github.com/etclabscore/open-etc-pool/util"
+	"github.com/galiy/etchash-solo-pool/util"
 )
 
 type RPCClient struct {
